@@ -1,2 +1,2 @@
 # Pig-game
-challange yourself with some dice game 
+challenge yourself with some dice game 
